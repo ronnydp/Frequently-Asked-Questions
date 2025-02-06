@@ -2,6 +2,7 @@ body{
     font-family: 'Inter', serif;
     margin: 0;
     line-height: 1.6;
+    overflow-x : hidden;
 }
 
 main{
@@ -12,6 +13,7 @@ main{
     width: 100%;
     margin: 0;
     padding: 20px;
+    box-sizing: border-box;
 }
 
 p{
@@ -46,6 +48,7 @@ main div{
     margin: 0 auto;
     width: 90%;
     max-width: 620px;
+    box-sizing: border-box;
 }
 
 li{
